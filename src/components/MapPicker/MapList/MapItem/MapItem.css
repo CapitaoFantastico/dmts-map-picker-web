@@ -1,0 +1,12 @@
+.mapItem header {
+  max-height: 150px;
+}
+
+.mapItem header img {
+  width: 150px;
+  height: 150px;
+}
+
+.disableItem {
+  filter: grayscale(100%);
+}

@@ -1,0 +1,13 @@
+.mapList {
+}
+
+.mapList ul {
+  /* imagem 150px + 5 de padding em cada item */
+  width: 640px;
+  margin: auto;
+}
+
+.mapItem {
+  float: left;
+  padding: 5px;
+}
